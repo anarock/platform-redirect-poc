@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Dependencies (backstop if a subproject has no .gitignore)
+node_modules/
+
+# Android build outputs (backstop)
+android/build/
+android/app/build/
+android/.gradle/
